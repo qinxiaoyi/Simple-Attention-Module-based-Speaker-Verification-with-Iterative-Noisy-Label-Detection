@@ -1,0 +1,1 @@
+# A-Simple-Attention-Module-for-Speaker-Verification-and-Iterative-noisy-label-detection
