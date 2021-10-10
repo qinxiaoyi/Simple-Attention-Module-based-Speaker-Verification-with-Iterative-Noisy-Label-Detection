@@ -1,1 +1,1 @@
-# A-Simple-Attention-Module-for-Speaker-Verification-and-Iterative-noisy-label-detection
+# Simple-Attention-Module-based-Speaker-Verification-with-Iterative-Noisy-Label-Detection
